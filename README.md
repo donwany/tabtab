@@ -1,9 +1,9 @@
-# TabTab Demo Project
-```bash
+f you'd like, I can also create:
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/donwany/tabtab.git
-git push -u origin main
+✅ A downloadable .md tutorial file for your students
 
-```
+✅ A visual Git workflow explanation
+
+✅ A “Top Git + GH Commands Cheat Sheet” formatted for teaching
+
+✅ A version for Windows PowerShell specifically
